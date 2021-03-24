@@ -51,11 +51,11 @@ function draw() {
   
   //Seconds 
   stroke(255,0,0);
-   arc(0,0,300,300,0,scAngle); 
+   arc(0,0,300,300,0,secAngle); 
    
    //Minutes 
    stroke(0,255,0);
-    arc(0,0,280,280,0,mnAngle); 
+    arc(0,0,280,280,0,minAngle); 
     
     //Hour 
     stroke(0,0,255); 
